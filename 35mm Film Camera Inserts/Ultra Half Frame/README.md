@@ -10,17 +10,19 @@ The models provided are only for the following cameras (more will be made as I c
 
 ## Printing:
 
-Multiple file formats are provided, such as Fusion360 Archive, Step, STL, and 3MF. The 3MF files are preloaded with orientation, supports (if applicable), settings (0.08mm high quality based), and possible filament settings. All prints were originally printed and tested with PLA Black (please use black). Preferably use a smooth plate.
+Multiple file formats are provided, such as Fusion360 Archive, Step, STL, and 3MF. The 3MF files are preloaded with orientation, supports (if applicable), settings (0.08mm high quality based), and possible filament settings. Just open the 3MF, slice, and print. All prints were originally printed and tested with PLA Black (please use black) as well as a 0.4mm nozzle and standard flow. Preferably use a smooth plate.
 
 ## Setup:
+
+![F Series insert on print bed.]()
 
 Once printed, let the print cool before attempting to remove from bed. You **don't** want to bend it while it's still warm, causing it to bend and cool in a bent shape. Once cool, carefully remove it from the print plate. You need to prepare it first.
 
 Use a knife to clean up the "walls" on the back face of the print. It may have been a little messy. Only clean up the corners, as rough regular walls (within reason) can help with securing the insert in the film gate (friction fit).
 
-The front face that touches the film (the side that does not have the raised "walls") needs to be covered completely with Kapton tape. Use a 1 inch wide 1 mil thick roll of Kapton tape and place it long ways across the entire front face. Leave a little float off the top and bottom (long edges) of the insert. You'll need to flip the insert down with the front face facing down, then use a fine knife (such as an exacto knife) to:
+The front face that touches the film (the side that does not have the raised "walls") needs to be covered completely with Kapton tape. Use a 1 inch wide (to keep the tape one solid piece instead of trying to splice) 1 mil thick roll of Kapton tape and place it long ways across the entire front face. Leave a little floating off the sides (short edges) of the insert. You'll need to flip the insert down with the front face facing down, then use a fine knife (such as an exacto knife) to:
 - Cut out the bit that covers the gap in the insert. Run the blade against the print to get a straight cut.
-- Cut small squares out of each corner. You'll need to do this so you can fold the little bit of Kapton tape over the edges. Just enough to cover the sides, but you may need to trim more so that the tape doesn't fold over onto the backside.
+- Cut the tape so that you can fold over a little bit of tape down the short edges of the insert. These inserts are very thin, you don't need much, just overshoot a little when placing the tape down and cut to length after you flattened the tape on the insert. It must cover the short sides as well, to prevent accidental scratching.
 
 
 Finally, use black gaffer tape to cover the bottom face of the insert, within the "walls." Only the part that sits within the space of the film gate. This helps prevent any light leaks that may have escaped through the print without adding any thickness to the insert (as any shift in film placement can cause catastrophic focusing problems).
