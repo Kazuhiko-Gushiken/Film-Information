@@ -8,6 +8,10 @@ The models provided are only for the following cameras (more will be made as I c
 - Canon FTB
 - Nikon F1–F6
 
+Anyone who would like to contribute may do so, using measurements from your camera (to increase the amount of cameras there are inserts for) should make a PR, provide four files (.3MF, .STEP, .STL, and the source CAD file, from any software) and what you go by so I can give you credit for your model.
+
+If you don't have CAD, you can take measurements and submit an issue with said measurements and the exact Camera(s) these measurements are applicable to. If you have a way of 3D printing, I may ask you to test the model, if you'd like.
+
 ## Printing:
 
 Multiple file formats are provided, such as Fusion360 Archive, Step, STL, and 3MF. The 3MF files are preloaded with orientation, supports (if applicable), settings (0.08mm high quality based), and possible filament settings. Just open the 3MF, slice, and print. All prints were originally printed and tested with PLA Black (please use black) as well as a 0.4mm nozzle and standard flow. Preferably use a smooth plate.
